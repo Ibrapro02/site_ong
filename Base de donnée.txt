@@ -1,0 +1,12 @@
+Pour la base de donnée:
+{idclient serial primary key not null
+ nom varchar(50) not null
+ prenom varchar(50) not null
+ mot_de_passe varchar(50) not null
+ adresse varchar(30) nit null
+ tel numeric(13) not null
+ email varchar(100) not null
+ nationalite varchar(50) not null
+ genre varchar(50) not null
+ specialite varchar(50) not null
+}
